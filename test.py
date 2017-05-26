@@ -9,6 +9,7 @@ for line in fh:
         #return lst
 newlist = sorted(lst)
 print newlist
+print "wow, i uploaded this file to github"
 
     
 
